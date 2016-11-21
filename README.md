@@ -10,3 +10,5 @@ para inicio eu havia feito com um led na
 
 no final eu alterei ele para um rele, que pode ser usado para acionar um trava eletronica de porta.
 Infelizmente eu não tive condições para comprar uma trava de porta mais na sequência eu irei fazer.
+
+utilizei o Fritzing para poder mostrar todas as ligações certas do projeto, já foi testado e funciona 100%
